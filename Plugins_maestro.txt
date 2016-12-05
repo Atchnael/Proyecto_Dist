@@ -1,0 +1,5 @@
+Plugins instalados para el maestro
+
+Github:1.22.3
+docker:0.16.2
+saferestart:0.3
